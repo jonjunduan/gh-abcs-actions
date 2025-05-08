@@ -21,6 +21,7 @@ References:
 4. Change a file inside the folder [labs](/labs)
 5. Commit the changes into the `main` branch
 6. Go to `Actions` and see the details of your running workflow
+7. Done
 
 ## 1.2 Add steps to your workflow
 
